@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Baranitharan saravanabaskar</h1>
-<h3 align="center">"India's tech oracle, transforming visionary ideas into groundbreaking digital realities!"</h3>(img align="right" alt="Coding" width="400" src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a%2Fraw%2F88f20c9d749d756be63f22b09f3c4ac570bc5101%2Fprogramming.gif&tbnid=ZHM55s2_Fz-GFM&vet=12ahUKEwiI6uWqwrmHAxUH2zgGHVweBpkQMyghegUIARDFAQ..i&imgrefurl=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&docid=bf7_4kDMFJjHSM&w=1281&h=716&q=PROGRAMMING%20ANIMATED%20GIF&ved=2ahUKEwiI6uWqwrmHAxUH2zgGHVweBpkQMyghegUIARDFAQ
-
+<h3 align="center">"India's tech oracle, transforming visionary ideas into groundbreaking digital realities!"</h3>(img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryffinbarani&label=Profile%20views&color=0e75b6&style=flat" alt="gryffinbarani" /> </p>
 
@@ -9,14 +8,27 @@
 
 - 🔭 I’m currently working on **GOOGLE'S GEMINI AI APP**
 
+- 🌱 I’m currently learning **React Vue.js Angular Svelte Django Express.js Spring Boot Flutter React Native TensorFlow PyTorch Keras Kubernetes Docker**
+
 - 👯 I’m looking to collaborate on **Game developers**
 
+- 💬 Ask me about **Quantum Computing Neuromorphic Computing Edge AI Blockchain Applications Synthetic Biology Space-Based Solar Power Holographic Displays AR Contact Lenses Biocomputing Self-Healing Materials**
+
+- 📫 How to reach me **grangerhermoine@gmail.com ,**
+
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1GJ6oerxPkAIUTTvMo28ESGMLVtEE3QDf?usp=sharing](https://drive.google.com/drive/folders/1GJ6oerxPkAIUTTvMo28ESGMLVtEE3QDf?usp=sharing)
+
+- ⚡ Fun fact **"I can solve a Rubik’s Cube while blindfolded—just don’t ask me to do it in under a minute yet!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/barani tharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barani tharan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/barani-tharan-792aaa247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/barani-tharan-792aaa247" height="30" width="40" /></a>
+<a href="https://instagram.com/barani_sorcercer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barani_sorcercer" height="30" width="40" /></a>
+<a href="https://www.behance.net/barani_tharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="barani_tharan" height="30" width="40" /></a>
+<a href="https://medium.com/@baranifavorite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baranifavorite" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codewithbarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithbarani" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/quantumprowler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="quantumprowler" height="30" width="40" /></a>
 <a href="https://discord.gg/Baranitharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Baranitharan" height="30" width="40" /></a>
 </p>
 
